@@ -7,9 +7,10 @@
 ***
   ## INDEX
 ***
-  |**Sl.no** | **Date** |**Name**  |
-  |:----------:|:----------:|:----------:|
-  |1.|23.08.2023| Write a programme to print your name and push it to GitHub|
+  |**Sl.no** | **Date** |**Name**  |**Question**|
+  |:----------:|:----------:|:----------:|:-----:|
+  |1.|23.08.2023|Lab 01| Write a programme to print your name and push it to GitHub|
+  |2.|28.08.2023|Lab 02| Name Collector's Quest|
 
 
 
