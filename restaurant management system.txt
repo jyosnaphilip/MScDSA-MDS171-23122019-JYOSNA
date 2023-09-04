@@ -1,0 +1,6 @@
+		CULINARY DELIGHTS
+
+item:pasta
+quantity:2
+price:130
+net amount:260
