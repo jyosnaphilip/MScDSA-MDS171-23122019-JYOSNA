@@ -2,5 +2,21 @@
 
 item:pasta
 quantity:2
-price:130
-net amount:260
+price:120
+net amount=240
+item:biriyani
+quantity:3
+price:100
+net amount=300
+item:porotta
+quantity:5
+price:10
+net amount=50
+item:tea
+quantity:2
+price:10
+net amount=20
+item:chicken fried rice
+quantity:1
+price:200
+net amount=200

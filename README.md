@@ -7,12 +7,12 @@
 ***
   ## INDEX
 ***
-  |**Sl.no** | **Date** |**Name**  |**Question**|
-  |:----------:|:----------:|:----------:|:-----:|
-  |1.|23.08.2023|Lab 01| Write a programme to print your name and push it to GitHub|
-  |2.|28.08.2023|Lab 02| Name Collector's Quest|
-  |3.|01.09.2023|Lab 03|  The Tale of Numbers' Harmony|
-  |4.|04.09.2023|Lab 04|A Taste of Success: The Restaurant Management System|
+  |**Sl.no** | **Date** |**Name**  |**Question**|**Link**|
+  |:----------:|:----------:|:----------:|:-----:|:---------:|
+  |1.|23.08.2023|Lab 01| Write a programme to print your name and push it to GitHub|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2001.ipynb|
+  |2.|28.08.2023|Lab 02| Name Collector's Quest|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2002.ipynb|
+  |3.|01.09.2023|Lab 03|  The Tale of Numbers' Harmony|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2003.ipynb|
+  |4.|04.09.2023|Lab 04|A Taste of Success: The Restaurant Management System|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2004.ipynb|
 
 
 
