@@ -15,6 +15,7 @@
   |4.|04.09.2023|Lab 04|A Taste of Success: The Restaurant Management System|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2004.ipynb|
   |5.|08.09.2023|Lab 05|Mix and Match Calculator|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2005/Lab%2005.ipynb|
   |6.|11.09.2023|Lab 06|Vowel Counter|https://github.com/jyosnaphilip/MScDSA-MDS171-23122019-JYOSNA/blob/main/Lab%2006.ipynb|
+  |7.|15.09.2023|Lab 06|My Menu Driven Restaurant|  |
 
 
 
