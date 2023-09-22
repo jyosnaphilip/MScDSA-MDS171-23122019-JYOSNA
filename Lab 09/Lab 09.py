@@ -52,6 +52,5 @@ sendFile=ExpenseTracker()
 print(sendFile.viewTransaction())
 print(sendFile.calcTransaction())
 
-    
 
 
