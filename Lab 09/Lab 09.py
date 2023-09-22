@@ -1,7 +1,7 @@
 class ExpenseTracker:
     def __init__(self):
         self.transact_Dict={"expenses":[],"income":[]}
-        with open("ExpenseTracker.csv","r+") as file:
+        with open("expenseTracker.csv","r+") as file:
             r=file.readlines()
     
     
@@ -46,7 +46,11 @@ class ExpenseTracker:
         print("total income:",totalIncome)
         print("total expense:",totalExpense)
         print("savings:",totalIncome+totalExpense)
+
+sendFile=ExpenseTracker()
     
+print(sendFile.viewTransaction())
+print(sendFile.calcTransaction())
 
     
 
