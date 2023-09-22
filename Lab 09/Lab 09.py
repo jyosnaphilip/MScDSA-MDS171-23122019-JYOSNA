@@ -1,3 +1,4 @@
+# Lab 09: Expense Tracker
 class ExpenseTracker:
     def __init__(self):
         self.transact_Dict={"expenses":[],"income":[]}  #initialise dictionary
