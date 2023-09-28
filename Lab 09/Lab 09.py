@@ -63,6 +63,9 @@ while True:
         transactDate=input("enter Date:")
         transactRemark=input("enter Remarks, if any. If none, enter '-':")
         sendFile.storeTransaction(trans,transactType,transactDate,transactRemark)
+        with open("expenseTracker.csv","a+") as fileEdit:
+            fileEdit.write(str(trans)+","+transactType+","+transactDate+","+transactRemark+"\n")
+
 
     elif choice==2:
         sendFile.viewTransaction()
