@@ -1,0 +1,463 @@
+company_location,bean_origin,id,manufacturer,year_reviewed,bar_name,cocoa_percent,num_ingredients,ingredients,review,rating,new column
+Amsterdam,Belize,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Blend,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Congo,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Madagascar,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Mexico,2,2,2,2,2,2,2,2,2,2
+Amsterdam,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Peru,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Philippines,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Sulawesi,1,1,1,1,1,1,1,1,1,1
+Amsterdam,Vietnam,1,1,1,1,1,1,1,1,1,1
+Argentina,Bolivia,1,1,1,1,1,0,0,1,1,0
+Argentina,Brazil,1,1,1,1,1,1,1,1,1,1
+Argentina,Ecuador,3,3,3,3,3,2,2,3,3,2
+Argentina,Venezuela,4,4,4,4,4,1,1,4,4,1
+Australia,Australia,3,3,3,3,3,3,3,3,3,3
+Australia,Belize,1,1,1,1,1,1,1,1,1,1
+Australia,Blend,5,5,5,5,5,4,4,5,5,4
+Australia,Bolivia,3,3,3,3,3,3,3,3,3,3
+Australia,Brazil,2,2,2,2,2,2,2,2,2,2
+Australia,Dominican Republic,3,3,3,3,3,3,3,3,3,3
+Australia,Ecuador,4,4,4,4,4,4,4,4,4,4
+Australia,Fiji,1,1,1,1,1,1,1,1,1,1
+Australia,Guatemala,1,1,1,1,1,1,1,1,1,1
+Australia,Haiti,1,1,1,1,1,1,1,1,1,1
+Australia,Madagascar,6,6,6,6,6,6,6,6,6,6
+Australia,Papua New Guinea,7,7,7,7,7,6,6,7,7,6
+Australia,Peru,1,1,1,1,1,1,1,1,1,1
+Australia,Solomon Islands,4,4,4,4,4,4,4,4,4,4
+Australia,Tanzania,2,2,2,2,2,2,2,2,2,2
+Australia,Trinidad,2,2,2,2,2,2,2,2,2,2
+Australia,Vanuatu,4,4,4,4,4,4,4,4,4,4
+Australia,Venezuela,2,2,2,2,2,2,2,2,2,2
+Australia,Vietnam,1,1,1,1,1,1,1,1,1,1
+Austria,Belize,1,1,1,1,1,1,1,1,1,1
+Austria,Blend,4,4,4,4,4,4,4,4,4,4
+Austria,Bolivia,2,2,2,2,2,2,2,2,2,2
+Austria,Brazil,1,1,1,1,1,1,1,1,1,1
+Austria,Colombia,2,2,2,2,2,2,2,2,2,2
+Austria,Congo,3,3,3,3,3,3,3,3,3,3
+Austria,Dominican Republic,2,2,2,2,2,2,2,2,2,2
+Austria,Ecuador,2,2,2,2,2,2,2,2,2,2
+Austria,Haiti,1,1,1,1,1,1,1,1,1,1
+Austria,India,2,2,2,2,2,2,2,2,2,2
+Austria,Madagascar,1,1,1,1,1,1,1,1,1,1
+Austria,Panama,1,1,1,1,1,1,1,1,1,1
+Austria,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Austria,Peru,3,3,3,3,3,3,3,3,3,3
+Austria,Tanzania,2,2,2,2,2,2,2,2,2,2
+Austria,Trinidad,2,2,2,2,2,2,2,2,2,2
+Belgium,Belize,1,1,1,1,1,1,1,1,1,1
+Belgium,Blend,7,7,7,7,7,6,6,7,7,6
+Belgium,Brazil,2,2,2,2,2,2,2,2,2,2
+Belgium,Cameroon,2,2,2,2,2,2,2,2,2,2
+Belgium,China,1,1,1,1,1,1,1,1,1,1
+Belgium,Colombia,1,1,1,1,1,1,1,1,1,1
+Belgium,Costa Rica,3,3,3,3,3,3,3,3,3,3
+Belgium,Cuba,2,2,2,2,2,2,2,2,2,2
+Belgium,DR Congo,1,1,1,1,1,1,1,1,1,1
+Belgium,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Belgium,Ecuador,5,5,5,5,5,4,4,5,5,4
+Belgium,Ghana,1,1,1,1,1,1,1,1,1,1
+Belgium,Grenada,1,1,1,1,1,0,0,1,1,0
+Belgium,India,4,4,4,4,4,4,4,4,4,4
+Belgium,Indonesia,2,2,2,2,2,2,2,2,2,2
+Belgium,Madagascar,4,4,4,4,4,4,4,4,4,4
+Belgium,Mexico,2,2,2,2,2,2,2,2,2,2
+Belgium,Nicaragua,3,3,3,3,3,3,3,3,3,3
+Belgium,Panama,1,1,1,1,1,1,1,1,1,1
+Belgium,Papua New Guinea,2,2,2,2,2,2,2,2,2,2
+Belgium,Peru,6,6,6,6,6,6,6,6,6,6
+Belgium,Sao Tome,1,1,1,1,1,1,1,1,1,1
+Belgium,Tanzania,1,1,1,1,1,1,1,1,1,1
+Belgium,Trinidad,2,2,2,2,2,2,2,2,2,2
+Belgium,Venezuela,5,5,5,5,5,5,5,5,5,5
+Belgium,Vietnam,2,2,2,2,2,2,2,2,2,2
+Bolivia,Bolivia,2,2,2,2,2,2,2,2,2,2
+Brazil,Brazil,24,24,24,24,24,23,23,24,24,23
+Brazil,Puerto Rico,1,1,1,1,1,1,1,1,1,1
+Canada,Belize,6,6,6,6,6,6,6,6,6,6
+Canada,Blend,24,24,24,24,24,23,23,24,24,23
+Canada,Bolivia,7,7,7,7,7,7,7,7,7,7
+Canada,Brazil,3,3,3,3,3,3,3,3,3,3
+Canada,Colombia,6,6,6,6,6,6,6,6,6,6
+Canada,Dominican Republic,17,17,17,17,17,17,17,17,17,17
+Canada,Ecuador,8,8,8,8,8,8,8,8,8,8
+Canada,Fiji,1,1,1,1,1,1,1,1,1,1
+Canada,Ghana,1,1,1,1,1,1,1,1,1,1
+Canada,Grenada,1,1,1,1,1,1,1,1,1,1
+Canada,Guatemala,9,9,9,9,9,9,9,9,9,9
+Canada,Haiti,4,4,4,4,4,4,4,4,4,4
+Canada,Honduras,2,2,2,2,2,2,2,2,2,2
+Canada,India,1,1,1,1,1,1,1,1,1,1
+Canada,Indonesia,1,1,1,1,1,1,1,1,1,1
+Canada,Jamaica,1,1,1,1,1,1,1,1,1,1
+Canada,Madagascar,12,12,12,12,12,12,12,12,12,12
+Canada,Mexico,7,7,7,7,7,6,6,7,7,6
+Canada,Nicaragua,5,5,5,5,5,5,5,5,5,5
+Canada,Papua New Guinea,7,7,7,7,7,7,7,7,7,7
+Canada,Peru,19,19,19,19,19,18,18,19,19,18
+Canada,Philippines,2,2,2,2,2,2,2,2,2,2
+Canada,Tanzania,5,5,5,5,5,5,5,5,5,5
+Canada,Trinidad,3,3,3,3,3,3,3,3,3,3
+Canada,U.S.A.,2,2,2,2,2,2,2,2,2,2
+Canada,Uganda,1,1,1,1,1,1,1,1,1,1
+Canada,Vanuatu,1,1,1,1,1,1,1,1,1,1
+Canada,Venezuela,16,16,16,16,16,16,16,16,16,16
+Canada,Vietnam,5,5,5,5,5,5,5,5,5,5
+Chile,Peru,2,2,2,2,2,2,2,2,2,2
+Colombia,Blend,3,3,3,3,3,3,3,3,3,3
+Colombia,Colombia,26,26,26,26,26,25,25,26,26,25
+Costa Rica,Costa Rica,8,8,8,8,8,8,8,8,8,8
+Costa Rica,Guatemala,1,1,1,1,1,1,1,1,1,1
+Czech Republic,Madagascar,1,1,1,1,1,1,1,1,1,1
+Czech Republic,Venezuela,1,1,1,1,1,1,1,1,1,1
+Czech Republic,Vietnam,1,1,1,1,1,1,1,1,1,1
+Denmark,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Denmark,Ecuador,1,1,1,1,1,1,1,1,1,1
+Denmark,Guatemala,1,1,1,1,1,1,1,1,1,1
+Denmark,Honduras,1,1,1,1,1,1,1,1,1,1
+Denmark,Nicaragua,23,23,23,23,23,23,23,23,23,23
+Denmark,Peru,2,2,2,2,2,2,2,2,2,2
+Denmark,Philippines,1,1,1,1,1,1,1,1,1,1
+Denmark,Tanzania,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,Dominican Republic,11,11,11,11,11,11,11,11,11,11
+Ecuador,Colombia,1,1,1,1,1,1,1,1,1,1
+Ecuador,Ecuador,56,56,56,56,56,49,49,56,56,49
+Ecuador,Peru,1,1,1,1,1,1,1,1,1,1
+El Salvador,El Salvador,3,3,3,3,3,3,3,3,3,3
+Fiji,Fiji,4,4,4,4,4,4,4,4,4,4
+Finland,Madagascar,2,2,2,2,2,2,2,2,2,2
+France,Belize,1,1,1,1,1,1,1,1,1,1
+France,Blend,26,26,26,26,26,23,23,26,26,23
+France,Bolivia,2,2,2,2,2,2,2,2,2,2
+France,Brazil,9,9,9,9,9,9,9,9,9,9
+France,Burma,1,1,1,1,1,1,1,1,1,1
+France,Colombia,3,3,3,3,3,3,3,3,3,3
+France,Cuba,5,5,5,5,5,5,5,5,5,5
+France,Dominican Republic,9,9,9,9,9,8,8,9,9,8
+France,Ecuador,9,9,9,9,9,7,7,9,9,7
+France,Gabon,1,1,1,1,1,1,1,1,1,1
+France,Ghana,3,3,3,3,3,3,3,3,3,3
+France,Grenada,1,1,1,1,1,1,1,1,1,1
+France,Guatemala,3,3,3,3,3,3,3,3,3,3
+France,Haiti,3,3,3,3,3,3,3,3,3,3
+France,Indonesia,1,1,1,1,1,1,1,1,1,1
+France,Ivory Coast,2,2,2,2,2,2,2,2,2,2
+France,Jamaica,2,2,2,2,2,2,2,2,2,2
+France,Madagascar,13,13,13,13,13,12,12,13,13,12
+France,Mexico,8,8,8,8,8,8,8,8,8,8
+France,Nicaragua,1,1,1,1,1,1,1,1,1,1
+France,Panama,1,1,1,1,1,1,1,1,1,1
+France,Papua New Guinea,4,4,4,4,4,4,4,4,4,4
+France,Peru,17,17,17,17,17,17,17,17,17,17
+France,Sao Tome,6,6,6,6,6,6,6,6,6,6
+France,Sao Tome & Principe,1,1,1,1,1,1,1,1,1,1
+France,Sri Lanka,1,1,1,1,1,1,1,1,1,1
+France,Tanzania,2,2,2,2,2,2,2,2,2,2
+France,Tobago,2,2,2,2,2,1,1,2,2,1
+France,Togo,3,3,3,3,3,3,3,3,3,3
+France,Trinidad,3,3,3,3,3,3,3,3,3,3
+France,Vanuatu,1,1,1,1,1,1,1,1,1,1
+France,Venezuela,25,25,25,25,25,25,25,25,25,25
+France,Vietnam,7,7,7,7,7,7,7,7,7,7
+Germany,Belize,6,6,6,6,6,6,6,6,6,6
+Germany,Blend,1,1,1,1,1,1,1,1,1,1
+Germany,Bolivia,1,1,1,1,1,1,1,1,1,1
+Germany,Brazil,1,1,1,1,1,1,1,1,1,1
+Germany,Dominican Republic,2,2,2,2,2,2,2,2,2,2
+Germany,Ecuador,4,4,4,4,4,3,3,4,4,3
+Germany,Ghana,3,3,3,3,3,3,3,3,3,3
+Germany,Grenada,1,1,1,1,1,1,1,1,1,1
+Germany,Guatemala,1,1,1,1,1,1,1,1,1,1
+Germany,Jamaica,1,1,1,1,1,1,1,1,1,1
+Germany,Madagascar,4,4,4,4,4,4,4,4,4,4
+Germany,Mexico,1,1,1,1,1,1,1,1,1,1
+Germany,Peru,5,5,5,5,5,4,4,5,5,4
+Germany,St. Lucia,1,1,1,1,1,1,1,1,1,1
+Germany,Trinidad,1,1,1,1,1,1,1,1,1,1
+Germany,Vanuatu,1,1,1,1,1,0,0,1,1,0
+Germany,Venezuela,8,8,8,8,8,8,8,8,8,8
+Ghana,Ghana,1,1,1,1,1,1,1,1,1,1
+Grenada,Grenada,3,3,3,3,3,3,3,3,3,3
+Guatemala,Guatemala,8,8,8,8,8,8,8,8,8,8
+Guatemala,Madagascar,1,1,1,1,1,1,1,1,1,1
+Guatemala,Venezuela,1,1,1,1,1,1,1,1,1,1
+Honduras,El Salvador,2,2,2,2,2,2,2,2,2,2
+Honduras,Honduras,2,2,2,2,2,2,2,2,2,2
+Honduras,Nicaragua,2,2,2,2,2,2,2,2,2,2
+Hungary,Brazil,1,1,1,1,1,1,1,1,1,1
+Hungary,Cuba,2,2,2,2,2,2,2,2,2,2
+Hungary,Dominican Republic,2,2,2,2,2,2,2,2,2,2
+Hungary,Ecuador,2,2,2,2,2,2,2,2,2,2
+Hungary,Madagascar,5,5,5,5,5,5,5,5,5,5
+Hungary,Nicaragua,2,2,2,2,2,2,2,2,2,2
+Hungary,Peru,2,2,2,2,2,2,2,2,2,2
+Hungary,Principe,1,1,1,1,1,1,1,1,1,1
+Hungary,Venezuela,8,8,8,8,8,8,8,8,8,8
+Hungary,Vietnam,1,1,1,1,1,1,1,1,1,1
+Iceland,Madagascar,1,1,1,1,1,1,1,1,1,1
+Iceland,Nicaragua,1,1,1,1,1,1,1,1,1,1
+Iceland,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Iceland,Tanzania,1,1,1,1,1,1,1,1,1,1
+India,India,2,2,2,2,2,2,2,2,2,2
+Ireland,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Ireland,Peru,4,4,4,4,4,4,4,4,4,4
+Israel,Dominican Republic,2,2,2,2,2,2,2,2,2,2
+Israel,Ecuador,1,1,1,1,1,1,1,1,1,1
+Israel,Ivory Coast,1,1,1,1,1,1,1,1,1,1
+Israel,Madagascar,1,1,1,1,1,1,1,1,1,1
+Israel,Peru,2,2,2,2,2,2,2,2,2,2
+Israel,Trinidad,1,1,1,1,1,1,1,1,1,1
+Israel,Venezuela,1,1,1,1,1,1,1,1,1,1
+Italy,Belize,1,1,1,1,1,1,1,1,1,1
+Italy,Blend,12,12,12,12,12,9,9,12,12,9
+Italy,Brazil,1,1,1,1,1,1,1,1,1,1
+Italy,Colombia,2,2,2,2,2,2,2,2,2,2
+Italy,Cuba,2,2,2,2,2,2,2,2,2,2
+Italy,Dominican Republic,4,4,4,4,4,3,3,4,4,3
+Italy,Ecuador,8,8,8,8,8,8,8,8,8,8
+Italy,Ghana,1,1,1,1,1,1,1,1,1,1
+Italy,Grenada,1,1,1,1,1,1,1,1,1,1
+Italy,Haiti,1,1,1,1,1,1,1,1,1,1
+Italy,Honduras,1,1,1,1,1,1,1,1,1,1
+Italy,India,1,1,1,1,1,1,1,1,1,1
+Italy,Indonesia,2,2,2,2,2,2,2,2,2,2
+Italy,Jamaica,1,1,1,1,1,1,1,1,1,1
+Italy,Madagascar,6,6,6,6,6,5,5,6,6,5
+Italy,Nicaragua,1,1,1,1,1,1,1,1,1,1
+Italy,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Italy,Peru,2,2,2,2,2,2,2,2,2,2
+Italy,Philippines,1,1,1,1,1,1,1,1,1,1
+Italy,Sao Tome,2,2,2,2,2,2,2,2,2,2
+Italy,Tanzania,5,5,5,5,5,5,5,5,5,5
+Italy,Trinidad,2,2,2,2,2,2,2,2,2,2
+Italy,Venezuela,19,19,19,19,19,18,18,19,19,18
+Italy,Vietnam,1,1,1,1,1,1,1,1,1,1
+Japan,Belize,2,2,2,2,2,1,1,2,2,1
+Japan,Brazil,2,2,2,2,2,2,2,2,2,2
+Japan,Colombia,1,1,1,1,1,1,1,1,1,1
+Japan,Cuba,1,1,1,1,1,1,1,1,1,1
+Japan,Haiti,2,2,2,2,2,2,2,2,2,2
+Japan,Madagascar,3,3,3,3,3,3,3,3,3,3
+Japan,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Japan,Peru,9,9,9,9,9,6,6,9,9,6
+Japan,Tanzania,1,1,1,1,1,1,1,1,1,1
+Japan,Trinidad,1,1,1,1,1,1,1,1,1,1
+Japan,Venezuela,4,4,4,4,4,3,3,4,4,3
+Japan,Vietnam,4,4,4,4,4,4,4,4,4,4
+Lithuania,Blend,1,1,1,1,1,1,1,1,1,1
+Lithuania,El Salvador,1,1,1,1,1,1,1,1,1,1
+Lithuania,Grenada,1,1,1,1,1,1,1,1,1,1
+Lithuania,Nicaragua,2,2,2,2,2,2,2,2,2,2
+Lithuania,Peru,1,1,1,1,1,1,1,1,1,1
+Lithuania,Venezuela,2,2,2,2,2,2,2,2,2,2
+Madagascar,Madagascar,17,17,17,17,17,13,13,17,17,13
+Malaysia,Malaysia,3,3,3,3,3,3,3,3,3,3
+Martinique,Martinique,1,1,1,1,1,1,1,1,1,1
+Mexico,Mexico,10,10,10,10,10,10,10,10,10,10
+Netherlands,Blend,1,1,1,1,1,1,1,1,1,1
+Netherlands,Colombia,1,1,1,1,1,1,1,1,1,1
+Netherlands,Ecuador,1,1,1,1,1,1,1,1,1,1
+Netherlands,Indonesia,1,1,1,1,1,1,1,1,1,1
+Netherlands,Nicaragua,1,1,1,1,1,1,1,1,1,1
+Netherlands,Tanzania,1,1,1,1,1,1,1,1,1,1
+Netherlands,Venezuela,1,1,1,1,1,1,1,1,1,1
+Netherlands,Vietnam,1,1,1,1,1,1,1,1,1,1
+New Zealand,Bolivia,1,1,1,1,1,1,1,1,1,1
+New Zealand,Colombia,1,1,1,1,1,1,1,1,1,1
+New Zealand,Dominican Republic,2,2,2,2,2,2,2,2,2,2
+New Zealand,Ecuador,2,2,2,2,2,2,2,2,2,2
+New Zealand,Ghana,1,1,1,1,1,0,0,1,1,0
+New Zealand,Madagascar,1,1,1,1,1,1,1,1,1,1
+New Zealand,Papua New Guinea,7,7,7,7,7,7,7,7,7,7
+New Zealand,Peru,3,3,3,3,3,3,3,3,3,3
+New Zealand,Samoa,3,3,3,3,3,3,3,3,3,3
+New Zealand,Solomon Islands,2,2,2,2,2,2,2,2,2,2
+New Zealand,Tanzania,1,1,1,1,1,1,1,1,1,1
+New Zealand,Vanuatu,1,1,1,1,1,1,1,1,1,1
+New Zealand,Venezuela,2,2,2,2,2,2,2,2,2,2
+Nicaragua,Ecuador,1,1,1,1,1,1,1,1,1,1
+Nicaragua,Nicaragua,9,9,9,9,9,9,9,9,9,9
+Norway,India,1,1,1,1,1,1,1,1,1,1
+Norway,Madagascar,1,1,1,1,1,1,1,1,1,1
+Norway,Tanzania,1,1,1,1,1,1,1,1,1,1
+Peru,Peru,23,23,23,23,23,20,20,23,23,20
+Philippines,Philippines,5,5,5,5,5,5,5,5,5,5
+Poland,Colombia,1,1,1,1,1,1,1,1,1,1
+Poland,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Poland,Ecuador,1,1,1,1,1,1,1,1,1,1
+Poland,Ghana,1,1,1,1,1,1,1,1,1,1
+Poland,Nicaragua,1,1,1,1,1,1,1,1,1,1
+Poland,Peru,2,2,2,2,2,1,1,2,2,1
+Poland,Venezuela,1,1,1,1,1,1,1,1,1,1
+Portugal,Belize,1,1,1,1,1,1,1,1,1,1
+Portugal,Jamaica,1,1,1,1,1,1,1,1,1,1
+Portugal,Venezuela,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,Dominican Republic,2,2,2,2,2,2,2,2,2,2
+Puerto Rico,Puerto Rico,2,2,2,2,2,2,2,2,2,2
+Russia,Ecuador,1,1,1,1,1,1,1,1,1,1
+Russia,Peru,2,2,2,2,2,0,0,2,2,0
+Sao Tome,Blend,4,4,4,4,4,3,3,4,4,3
+Sao Tome & Principe,Sao Tome,4,4,4,4,4,4,4,4,4,4
+Scotland,Congo,1,1,1,1,1,1,1,1,1,1
+Scotland,Ecuador,1,1,1,1,1,1,1,1,1,1
+Scotland,Madagascar,1,1,1,1,1,1,1,1,1,1
+Scotland,Peru,6,6,6,6,6,6,6,6,6,6
+Scotland,Venezuela,2,2,2,2,2,2,2,2,2,2
+Singapore,Bolivia,1,1,1,1,1,1,1,1,1,1
+Singapore,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Singapore,Ecuador,1,1,1,1,1,1,1,1,1,1
+Singapore,Haiti,1,1,1,1,1,1,1,1,1,1
+Singapore,India,1,1,1,1,1,1,1,1,1,1
+Singapore,Indonesia,2,2,2,2,2,2,2,2,2,2
+Singapore,Madagascar,2,2,2,2,2,2,2,2,2,2
+Singapore,Malaysia,2,2,2,2,2,2,2,2,2,2
+Singapore,Mexico,1,1,1,1,1,1,1,1,1,1
+Singapore,Philippines,1,1,1,1,1,1,1,1,1,1
+Singapore,Tanzania,1,1,1,1,1,1,1,1,1,1
+Singapore,Vietnam,1,1,1,1,1,1,1,1,1,1
+South Africa,Ecuador,1,1,1,1,1,1,1,1,1,1
+South Africa,Madagascar,1,1,1,1,1,1,1,1,1,1
+South Africa,Panama,1,1,1,1,1,1,1,1,1,1
+South Africa,Uganda,1,1,1,1,1,1,1,1,1,1
+South Korea,Costa Rica,3,3,3,3,3,3,3,3,3,3
+South Korea,Dominican Republic,1,1,1,1,1,0,0,1,1,0
+South Korea,Ecuador,3,3,3,3,3,2,2,3,3,2
+South Korea,Ghana,1,1,1,1,1,0,0,1,1,0
+South Korea,Malaysia,1,1,1,1,1,1,1,1,1,1
+South Korea,Vietnam,2,2,2,2,2,2,2,2,2,2
+Spain,Belize,1,1,1,1,1,1,1,1,1,1
+Spain,Blend,5,5,5,5,5,4,4,5,5,4
+Spain,Bolivia,1,1,1,1,1,1,1,1,1,1
+Spain,Colombia,1,1,1,1,1,1,1,1,1,1
+Spain,Congo,2,2,2,2,2,2,2,2,2,2
+Spain,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Spain,Ecuador,4,4,4,4,4,4,4,4,4,4
+Spain,Fiji,1,1,1,1,1,1,1,1,1,1
+Spain,Ghana,2,2,2,2,2,2,2,2,2,2
+Spain,Grenada,2,2,2,2,2,2,2,2,2,2
+Spain,Madagascar,3,3,3,3,3,3,3,3,3,3
+Spain,Mexico,3,3,3,3,3,3,3,3,3,3
+Spain,Nicaragua,2,2,2,2,2,2,2,2,2,2
+Spain,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Spain,Peru,2,2,2,2,2,2,2,2,2,2
+Spain,Philippines,1,1,1,1,1,1,1,1,1,1
+Spain,Tanzania,1,1,1,1,1,1,1,1,1,1
+Spain,Venezuela,3,3,3,3,3,3,3,3,3,3
+St. Lucia,St. Lucia,3,3,3,3,3,3,3,3,3,3
+St.Vincent-Grenadines,St.Vincent-Grenadines,1,1,1,1,1,1,1,1,1,1
+Suriname,Suriname,1,1,1,1,1,1,1,1,1,1
+Sweden,Brazil,1,1,1,1,1,1,1,1,1,1
+Sweden,Madagascar,1,1,1,1,1,1,1,1,1,1
+Sweden,Peru,1,1,1,1,1,1,1,1,1,1
+Sweden,Sri Lanka,1,1,1,1,1,1,1,1,1,1
+Sweden,Tanzania,1,1,1,1,1,1,1,1,1,1
+Sweden,Venezuela,1,1,1,1,1,1,1,1,1,1
+Switzerland,Blend,3,3,3,3,3,3,3,3,3,3
+Switzerland,Bolivia,4,4,4,4,4,4,4,4,4,4
+Switzerland,Brazil,1,1,1,1,1,1,1,1,1,1
+Switzerland,Colombia,4,4,4,4,4,4,4,4,4,4
+Switzerland,Congo,1,1,1,1,1,1,1,1,1,1
+Switzerland,Dominican Republic,1,1,1,1,1,1,1,1,1,1
+Switzerland,Ecuador,2,2,2,2,2,2,2,2,2,2
+Switzerland,Grenada,1,1,1,1,1,1,1,1,1,1
+Switzerland,India,1,1,1,1,1,1,1,1,1,1
+Switzerland,Indonesia,1,1,1,1,1,1,1,1,1,1
+Switzerland,Madagascar,3,3,3,3,3,3,3,3,3,3
+Switzerland,Mexico,1,1,1,1,1,1,1,1,1,1
+Switzerland,Nicaragua,1,1,1,1,1,1,1,1,1,1
+Switzerland,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+Switzerland,Peru,3,3,3,3,3,3,3,3,3,3
+Switzerland,Venezuela,16,16,16,16,16,16,16,16,16,16
+Taiwan,Madagascar,1,1,1,1,1,1,1,1,1,1
+Taiwan,Nicaragua,3,3,3,3,3,3,3,3,3,3
+Taiwan,Philippines,1,1,1,1,1,1,1,1,1,1
+Taiwan,Sumatra,1,1,1,1,1,1,1,1,1,1
+Taiwan,Taiwan,2,2,2,2,2,2,2,2,2,2
+Taiwan,Tanzania,1,1,1,1,1,1,1,1,1,1
+Taiwan,Venezuela,1,1,1,1,1,1,1,1,1,1
+Thailand,Thailand,5,5,5,5,5,5,5,5,5,5
+U.A.E.,India,1,1,1,1,1,1,1,1,1,1
+U.A.E.,Madagascar,1,1,1,1,1,1,1,1,1,1
+U.A.E.,Papua New Guinea,1,1,1,1,1,1,1,1,1,1
+U.A.E.,Tanzania,1,1,1,1,1,1,1,1,1,1
+U.A.E.,Vietnam,1,1,1,1,1,1,1,1,1,1
+U.K.,Belize,2,2,2,2,2,2,2,2,2,2
+U.K.,Blend,2,2,2,2,2,2,2,2,2,2
+U.K.,Bolivia,2,2,2,2,2,2,2,2,2,2
+U.K.,Brazil,2,2,2,2,2,2,2,2,2,2
+U.K.,Colombia,7,7,7,7,7,7,7,7,7,7
+U.K.,Congo,1,1,1,1,1,1,1,1,1,1
+U.K.,Costa Rica,1,1,1,1,1,1,1,1,1,1
+U.K.,Dominican Republic,7,7,7,7,7,5,5,7,7,5
+U.K.,Ecuador,12,12,12,12,12,11,11,12,12,11
+U.K.,Grenada,5,5,5,5,5,4,4,5,5,4
+U.K.,Guatemala,4,4,4,4,4,4,4,4,4,4
+U.K.,Haiti,2,2,2,2,2,2,2,2,2,2
+U.K.,Honduras,4,4,4,4,4,4,4,4,4,4
+U.K.,India,2,2,2,2,2,2,2,2,2,2
+U.K.,Indonesia,5,5,5,5,5,4,4,5,5,4
+U.K.,Jamaica,3,3,3,3,3,3,3,3,3,3
+U.K.,Madagascar,11,11,11,11,11,11,11,11,11,11
+U.K.,Malaysia,2,2,2,2,2,2,2,2,2,2
+U.K.,Nicaragua,8,8,8,8,8,8,8,8,8,8
+U.K.,Nigeria,1,1,1,1,1,1,1,1,1,1
+U.K.,Panama,4,4,4,4,4,4,4,4,4,4
+U.K.,Papua New Guinea,2,2,2,2,2,2,2,2,2,2
+U.K.,Peru,10,10,10,10,10,9,9,10,10,9
+U.K.,Philippines,4,4,4,4,4,4,4,4,4,4
+U.K.,Sao Tome,1,1,1,1,1,1,1,1,1,1
+U.K.,Solomon Islands,2,2,2,2,2,2,2,2,2,2
+U.K.,St. Lucia,6,6,6,6,6,5,5,6,6,5
+U.K.,Tanzania,2,2,2,2,2,2,2,2,2,2
+U.K.,Trinidad,3,3,3,3,3,3,3,3,3,3
+U.K.,Uganda,1,1,1,1,1,0,0,1,1,0
+U.K.,Vanuatu,1,1,1,1,1,1,1,1,1,1
+U.K.,Venezuela,11,11,11,11,11,10,10,11,11,10
+U.K.,Vietnam,3,3,3,3,3,3,3,3,3,3
+U.S.A.,Belize,52,52,52,52,52,51,51,52,52,51
+U.S.A.,Blend,57,57,57,57,57,56,56,57,57,56
+U.S.A.,Bolivia,53,53,53,53,53,53,53,53,53,53
+U.S.A.,Brazil,27,27,27,27,27,27,27,27,27,27
+U.S.A.,Cameroon,1,1,1,1,1,1,1,1,1,1
+U.S.A.,Colombia,22,22,22,22,22,22,22,22,22,22
+U.S.A.,Congo,2,2,2,2,2,2,2,2,2,2
+U.S.A.,Costa Rica,27,27,27,27,27,26,26,27,27,26
+U.S.A.,Dominican Republic,154,154,154,154,154,153,153,154,154,153
+U.S.A.,Ecuador,86,86,86,86,86,82,82,86,86,82
+U.S.A.,Fiji,9,9,9,9,9,9,9,9,9,9
+U.S.A.,Ghana,26,26,26,26,26,23,23,26,26,23
+U.S.A.,Grenada,2,2,2,2,2,2,2,2,2,2
+U.S.A.,Guatemala,34,34,34,34,34,34,34,34,34,34
+U.S.A.,Haiti,15,15,15,15,15,15,15,15,15,15
+U.S.A.,Honduras,15,15,15,15,15,15,15,15,15,15
+U.S.A.,India,19,19,19,19,19,19,19,19,19,19
+U.S.A.,Indonesia,5,5,5,5,5,5,5,5,5,5
+U.S.A.,Ivory Coast,4,4,4,4,4,3,3,4,4,3
+U.S.A.,Jamaica,15,15,15,15,15,15,15,15,15,15
+U.S.A.,Liberia,3,3,3,3,3,3,3,3,3,3
+U.S.A.,Madagascar,73,73,73,73,73,73,73,73,73,73
+U.S.A.,Mexico,20,20,20,20,20,20,20,20,20,20
+U.S.A.,Nicaragua,35,35,35,35,35,35,35,35,35,35
+U.S.A.,Nigeria,2,2,2,2,2,1,1,2,2,1
+U.S.A.,Panama,1,1,1,1,1,1,1,1,1,1
+U.S.A.,Papua New Guinea,13,13,13,13,13,13,13,13,13,13
+U.S.A.,Peru,115,115,115,115,115,114,114,115,115,114
+U.S.A.,Philippines,7,7,7,7,7,7,7,7,7,7
+U.S.A.,Puerto Rico,4,4,4,4,4,4,4,4,4,4
+U.S.A.,Sao Tome & Principe,1,1,1,1,1,1,1,1,1,1
+U.S.A.,Sierra Leone,4,4,4,4,4,4,4,4,4,4
+U.S.A.,Solomon Islands,2,2,2,2,2,2,2,2,2,2
+U.S.A.,Tanzania,49,49,49,49,49,48,48,49,49,48
+U.S.A.,Trinidad,22,22,22,22,22,22,22,22,22,22
+U.S.A.,U.S.A.,31,31,31,31,31,29,29,31,31,29
+U.S.A.,Uganda,16,16,16,16,16,16,16,16,16,16
+U.S.A.,Venezuela,87,87,87,87,87,86,86,87,87,86
+U.S.A.,Vietnam,26,26,26,26,26,26,26,26,26,26
+Vanuatu,Vanuatu,4,4,4,4,4,4,4,4,4,4
+Venezuela,Venezuela,31,31,31,31,31,31,31,31,31,31
+Vietnam,Vietnam,16,16,16,16,16,16,16,16,16,16
+Wales,Costa Rica,1,1,1,1,1,1,1,1,1,1

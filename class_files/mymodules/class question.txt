@@ -1,0 +1,8 @@
+create a sportMart class,where you will have 
+inventory
+orders of customers
+
+create a csv file which will store your inventory details and order details
+with the help of file handling techniques in python,, read the file and create an object for trinity storeand populate 
+the inventory and orders into the trinity store
+to make sure you have added all items into your file, use a display method to show your inventory and order history.
